@@ -14,7 +14,7 @@ I used IntelliJ for my IDE and Kotlin for the Programming Language
 
 # Useful Websites
 
-* [Kotlin Documentation]([http://url.link.goes.here](https://kotlinlang.org/docs/home.html))
+* [Kotlin Documentation](https://kotlinlang.org/docs/home.html)
 
 # Future Work
 
