@@ -4,7 +4,7 @@ a clas and use different functions in a programming language I had not used befo
 This program allows the user to add items to their pantry and adjust the amounts of them. 
 They can them create a shopping list of the things they are out of.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/bBF8pyUW0RQ)
 
 # Development Environment
 
